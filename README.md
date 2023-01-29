@@ -1,7 +1,8 @@
 <h1> Brilliant Kelvin M Narlo </h1>
-<center>
+
+<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
- </center>
+</div>
 
 
 <h3 align="center">Connect With Me</h3>
