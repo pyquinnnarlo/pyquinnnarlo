@@ -5,7 +5,7 @@
   <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/HyunCafe" target="_blank">
