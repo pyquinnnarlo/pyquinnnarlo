@@ -16,10 +16,10 @@
     <img src="https://img.icons8.com/fluency/48/null/gmail.png"/>
   </a> &nbsp;&nbsp;
 
-  <a href="https://dev.to/hyuncafe" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+  <a href="https://web.facebook.com/codewithquinn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/null/meta.png"/>
 </a> &nbsp;&nbsp;
   <a>
-    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
-    <span>HyunSun#7206</span>
+    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png"/>
+    <span>@pyquinnnarlo</span>
 </p> 
