@@ -9,6 +9,17 @@
 </p>
 
 <div align="center">
+  <h3>Web Development Tools<h3>
+<img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
+<img src="https://img.icons8.com/fluency/48/null/css3.png"/>
+<img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
+  
+</div>
+
+
+
+<hr />
+<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <hr />
