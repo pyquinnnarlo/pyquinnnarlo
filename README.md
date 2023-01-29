@@ -20,6 +20,7 @@
 <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
 <img src="https://img.icons8.com/ios/50/null/django.png"/>
+<a href="https://iconscout.com/icons/django" target="_blank">Django Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
   
 </div>
     
