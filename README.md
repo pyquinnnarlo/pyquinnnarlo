@@ -13,9 +13,13 @@
 </div>
 <hr />
 
+
+<div align="center">
 <h3> Languages </h3>
 <img src="https://img.icons8.com/fluency/48/null/python.png"/>
-
+<img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
+</div>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
