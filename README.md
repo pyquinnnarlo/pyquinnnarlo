@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
 <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
-<img src="https://img.icons8.com/ios-filled/50/null/django.png"/>
+<img src="https://img.icons8.com/ios/50/null/django.png"/>
   
 </div>
     
