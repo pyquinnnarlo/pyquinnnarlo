@@ -7,11 +7,14 @@
   I'm majoring in Computer Science because I want to study Artificial Intelligence and Robotics Engineering.
   
 </p>
-<hr />
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
+<hr />
+
+<h3> Languages </h3>
+<img src="https://img.icons8.com/fluency/48/null/python.png"/>
 
 
 <h3 align="center">Connect With Me</h3>
