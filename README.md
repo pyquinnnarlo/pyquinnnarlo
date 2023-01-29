@@ -21,5 +21,5 @@
 </a> &nbsp;&nbsp;
   <a>
     <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png"/>
-    <span>@pyquinnnarlo</span>
+    <span>quinn#4599</span>
 </p> 
