@@ -20,8 +20,7 @@
 <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
 <img src="https://img.icons8.com/ios/50/null/django.png"/>
-<a href="https://iconscout.com/icons/django" target="_blank">Django Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
-  
+
 </div>
     
     
@@ -33,6 +32,7 @@
 <img src="https://img.icons8.com/fluency/48/null/python.png"/>
 <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
+<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 </div>
 
 <h3 align="center">Connect With Me</h3>
