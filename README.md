@@ -22,7 +22,7 @@
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
-    
+<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="40px" height="40px"></a>
     
 </div>
     
@@ -37,6 +37,13 @@
 <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 </div>
+    
+    
+<div align="center">
+  ## My IDE
+ <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
+ <img src="https://img.icons8.com/fluency/48/null/intellij-idea.png"/>
+    </div>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
