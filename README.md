@@ -19,8 +19,11 @@
 <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
 <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
-<img src="https://img.icons8.com/ios/50/null/django.png"/>
-
+<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="21px" height="21px"></a>
+    
+    
 </div>
     
     
