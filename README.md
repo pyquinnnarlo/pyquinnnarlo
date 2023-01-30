@@ -65,22 +65,22 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="[https://www.linkedin.com/in/hyuncafe/](https://www.linkedin.com/in/brilliant-narlo-b0ab4724a/)" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="Linkedin"/>
+    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="Linkedin" width="19" height="19"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/pyquinnnarlo" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/github.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/github.png" width="19" height="19"/>
   </a> &nbsp;&nbsp;
   
   <a href="mailto:pyquinnnarlo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/gmail.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/gmail.png" width="19" height="19"/>
   </a> &nbsp;&nbsp;
 
   <a href="https://web.facebook.com/codewithquinn" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/meta.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/meta.png" width="19" height="19"/>
 </a> &nbsp;&nbsp;
   <a>
-    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="15" height="15"/>
+    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="19" height="19"/>
     <span>quinn#4599</span>
 </p> 
   
