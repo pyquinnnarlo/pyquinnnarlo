@@ -14,6 +14,20 @@
 </div>
 <hr />
 
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+
+* 🌳 I’m currently learning Vanilla JavaScript! <br><br><br>
+
+* 🐾 I’m looking to network and make friends here! <br><br><br>
+
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+
+* ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
+
+* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+
+<h2></h2><br>
+
 <div align="center">
   <h1>Web Development Tools<h1>
 <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
