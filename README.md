@@ -9,7 +9,7 @@
   I'm majoring in Computer Science because I want to study Artificial Intelligence and Robotics Engineering.
   
 </p>
-  
+ 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <hr />
@@ -26,7 +26,9 @@
 
 <h2></h2><br>
 
+<div align="center">
 <img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif" />
+</div>
 
 <div align="center">
   <h1>Web Development Tools<h1>
