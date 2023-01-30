@@ -20,11 +20,9 @@
 
 * <img src="https://img.icons8.com/fluency/48/null/teamwork.png" width="20" height="20"/> I’m looking to network and makeing lot of friends here! <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+* 🌊 2023 Goals: Building a really good network with other, and contributing to projects. <br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
-
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+* <img src="https://img.icons8.com/fluency/48/null/greek-helmet.png" width="20" height="20"/> Hobbies: Gaming, Programming, Basketball, Reading/Studying. <br><br>
 
 <h2></h2><br>
 
