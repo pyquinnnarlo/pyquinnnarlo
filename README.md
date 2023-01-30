@@ -14,7 +14,7 @@
 </div>
 <hr />
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> Learning, Networking, and Contributing about Coding!</h2>
 
 * <img src="https://img.icons8.com/fluency/48/null/university.png" width="20" height="20"/> Second Term at University of The People (UoP) <br><br>
 
