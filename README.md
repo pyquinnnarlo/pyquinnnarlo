@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/fluency/48/null/king.png"/><h1> Brilliant Kelvin M Narlo </h1>
+<h1> Brilliant Kelvin M Narlo </h1>
 
 <div align="left">
 <h4>
