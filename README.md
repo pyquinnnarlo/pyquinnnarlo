@@ -15,7 +15,7 @@
 <hr />
 
 <div align="center">
-  <h3>Web Development Tools<h3>
+  <h1>Web Development Tools<h1>
 <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
 <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
 <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
@@ -31,7 +31,7 @@
 
 
 <div align="center">
-<h3> Languages </h3>
+<h1> Languages </h1>
 <img src="https://img.icons8.com/fluency/48/null/python.png"/>
 <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
@@ -40,10 +40,10 @@
     
 <hr />  
 <div align="center">
-  <h1>My IDE's </h1>
+<h1>My IDE's </h1>
  <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
  <img src="https://img.icons8.com/fluency/48/null/intellij-idea.png"/>
-    </div>
+</div>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
