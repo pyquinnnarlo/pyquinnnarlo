@@ -62,9 +62,6 @@
 </div>
     
     
- <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif">
-    
-
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="[https://www.linkedin.com/in/hyuncafe/](https://www.linkedin.com/in/brilliant-narlo-b0ab4724a/)" target="_blank">
@@ -83,6 +80,8 @@
     <img src="https://img.icons8.com/fluency/48/null/meta.png"/>
 </a> &nbsp;&nbsp;
   <a>
-    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png"/>
+    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="15" height="15"/>
     <span>quinn#4599</span>
 </p> 
+  
+   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif">
