@@ -26,6 +26,8 @@
 
 <h2></h2><br>
 
+<img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif" />
+
 <div align="center">
   <h1>Web Development Tools<h1>
 <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
