@@ -16,9 +16,9 @@
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br><br><br>
+* <img src="https://img.icons8.com/fluency/48/null/university.png" width="20" height="20"/> Second Term at University of The People(Uop) <br><br><br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+* 🐾 I’m looking to network and makeing lot of friends here! <br><br><br>
 
 * 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
 
