@@ -38,9 +38,9 @@
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 </div>
     
-    
+<hr />  
 <div align="center">
-  ## My IDE
+  <h1>My IDE's </h1>
  <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
  <img src="https://img.icons8.com/fluency/48/null/intellij-idea.png"/>
     </div>
