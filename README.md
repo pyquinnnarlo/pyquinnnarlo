@@ -1,6 +1,6 @@
 <img src="https://img.icons8.com/fluency/48/null/king.png"/><h1> Brilliant Kelvin M Narlo </h1>
 
-<div align="center">
+<div align="left">
 <h3>
   I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).
   <br />
