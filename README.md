@@ -34,8 +34,6 @@
 <h1> Languages </h1>
 <img src="https://img.icons8.com/fluency/48/null/python.png"/>
 <img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png"/>
-<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 </div>
     
 <hr />  
