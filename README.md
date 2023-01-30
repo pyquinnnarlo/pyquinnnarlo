@@ -62,7 +62,7 @@
 </div>
     
     
- <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif">
+ <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif">
     
 
 <h3 align="center">Connect With Me</h3>
