@@ -88,4 +88,7 @@
     <span>quinn#4599</span>
 </p> 
   
+  <div align="center">
+  
    <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif">
+    </div>
