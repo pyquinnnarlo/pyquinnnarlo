@@ -44,6 +44,14 @@
  <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
  <img src="https://img.icons8.com/fluency/48/null/intellij-idea.png"/>
 </div>
+    
+
+<div align="center">
+  <h1>Operation System </h1>
+      <img src="https://img.icons8.com/fluency/48/null/windows-10.png"/>
+</div>
+    
+    
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
