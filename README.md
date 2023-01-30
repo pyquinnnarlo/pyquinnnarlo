@@ -1,15 +1,16 @@
 <img src="https://img.icons8.com/fluency/48/null/king.png"/><h1> Brilliant Kelvin M Narlo </h1>
 
 <div align="left">
-<h3>
+<h4>
   I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).
   <br />
   Before majoring in Computer Science, I was a self taught Software developer with less than three years experience.
   
   I'm majoring in Computer Science because I want to study Artificial Intelligence and Robotics Engineering.
   
-</h3>
- 
+</h4>
+ </div>
+<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%;">
 </div>
 <hr />
