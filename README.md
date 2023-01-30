@@ -16,11 +16,11 @@
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* <img src="https://img.icons8.com/fluency/48/null/university.png" width="20" height="20"/> Second Term at University of The People(Uop) <br><br><br>
+* <img src="https://img.icons8.com/fluency/48/null/university.png" width="20" height="20"/> Second Term at University of The People (UoP) <br><br>
 
-* 🐾 I’m looking to network and makeing lot of friends here! <br><br><br>
+* <img src="https://img.icons8.com/fluency/48/null/teamwork.png" width="20" height="20"/> I’m looking to network and makeing lot of friends here! <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
 
 * ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
 
