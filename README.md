@@ -29,65 +29,8 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif" />
-</div>
-
-<div align="center">
-  <h1>Web Development Tools<h1>
-<img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
-<img src="https://img.icons8.com/fluency/48/null/css3.png"/>
-<img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
-<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="40px" height="40px"></a>
-    
-</div>
-    
-    
+</div>  
  <hr />
-
-
-<div align="center">
-<h1> Languages </h1>
-<img src="https://img.icons8.com/fluency/48/null/python.png"/>
-<img src="https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png"/>
-</div>
-    
-<hr />  
-<div align="center">
-<h1>My IDE's </h1>
- <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
- <img src="https://img.icons8.com/fluency/48/null/intellij-idea.png"/>
-</div>
-    
-
-<div align="center">
-  <h1>Operation System </h1>
-      <img src="https://img.icons8.com/fluency/48/null/windows-10.png"/>
-</div>
-    
-    
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="[https://www.linkedin.com/in/hyuncafe/](https://www.linkedin.com/in/brilliant-narlo-b0ab4724a/)" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="Linkedin" width="19" height="19"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/pyquinnnarlo" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/github.png" width="19" height="19"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:pyquinnnarlo@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/gmail.png" width="19" height="19"/>
-  </a> &nbsp;&nbsp;
-
-  <a href="https://web.facebook.com/codewithquinn" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/null/meta.png" width="19" height="19"/>
-</a> &nbsp;&nbsp;
-  <a>
-    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="19" height="19"/>
-    <span>quinn#4599</span>
-</p> 
   
   <div align="center">
   
