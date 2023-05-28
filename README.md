@@ -24,15 +24,3 @@
 * 🌊 2023 Goals: Building a really good network with other, and contributing to projects. <br><br>
 
 * <img src="https://img.icons8.com/fluency/48/null/greek-helmet.png" width="20" height="20"/> Hobbies: Gaming, Programming, Basketball, Reading/Studying. <br><br>
-
-<h2></h2><br>
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif" />
-</div>  
- <hr />
-  
-  <div align="center">
-  
-   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> 
-    </div>
