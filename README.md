@@ -1,11 +1,9 @@
-<h1> Brilliant Kelvin M Narlo </h1>
+<h1> TheTech Guy</h1>
 
 <div align="left">
 <h4>
   I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).
-  <br />
   Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.
-  
   I'm majoring in Computer Science because I want to study Artificial Intelligence and Robotics Engineering.
   
 </h4>
