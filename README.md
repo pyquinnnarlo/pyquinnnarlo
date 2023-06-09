@@ -1,12 +1,11 @@
 <h1> TheTech Guy</h1>
 
 <div align="left">
-<h4>
+<p>
   I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).
   Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.
   I'm majoring in Computer Science because I want to study Artificial Intelligence and Robotics Engineering.
-  
-</h4>
+</p>
  </div>
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%;">
