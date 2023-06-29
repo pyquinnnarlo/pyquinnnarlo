@@ -21,4 +21,7 @@
 * 🌊 2023 Goals: Building a really good network with other, and contributing to projects. <br><br>
 
 * <img src="https://img.icons8.com/fluency/48/null/greek-helmet.png" width="20" height="20"/> Hobbies: Gaming, Programming, Basketball, Reading/Studying. <br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/128px-Official_YAML_Logo.svg.png" />
+
+
+<h3>Tools</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/64px-Official_YAML_Logo.svg.png" />
