@@ -7,6 +7,7 @@
 I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).<br />
 Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
 
+<center>
 
 ##### UI/UX Design
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
