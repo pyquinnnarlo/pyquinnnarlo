@@ -4,7 +4,8 @@
 <hr />
 
 # 💫 About Me:
-I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).<br>Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
+I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).<br />
+Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
 
 
 - [ ] Open Item
