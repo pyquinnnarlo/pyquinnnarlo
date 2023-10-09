@@ -1,5 +1,6 @@
 ## Hey there:
-Computer Science | Backend Engineer | Android Native App Developer | Desktop App Developer | Cryptographer | ML/AI
+Computer Science | Web Developer | Android App Developer 
+| Desktop App Developer | Cryptographer
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%;">
