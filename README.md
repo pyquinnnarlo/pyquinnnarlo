@@ -1,11 +1,12 @@
+## Hey there:
+Computer Science | Backend Engineer | Android Native App Developer | Desktop App Developer | Cryptographer | ML/AI
+
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 50%;">
 </div>
 <hr />
 
-## Hey there:
-I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).<br />
-Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
+
 
 
 <div align="center">
