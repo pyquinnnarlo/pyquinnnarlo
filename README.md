@@ -7,13 +7,13 @@
 I'm a Computer Science Major, and I'm currently a student of The University of The People (UoP).<br />
 Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
 
-<center>
+
 
 ##### UI/UX Design
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 
-<div>
+<div align="center">
   
 ##### Web Development Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
@@ -26,7 +26,7 @@ Before majoring in Computer Science, I was a self taught Software developer and 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-</div>
+
 
 
 ##### Mobile App Development
