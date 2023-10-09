@@ -8,12 +8,12 @@ I'm a Computer Science Major, and I'm currently a student of The University of T
 Before majoring in Computer Science, I was a self taught Software developer and a mentor in programming and software development.<br>
 
 
-
+<div align="center">
+  
 ##### UI/UX Design
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 
-<div align="center">
   
 ##### Web Development Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
