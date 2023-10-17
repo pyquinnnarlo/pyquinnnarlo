@@ -48,10 +48,13 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
 
 <div align="left">
   
-**Cryptography**
+**Cryptography & Algorithm**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+- Euclidean Algorithm
+- Caesar Cipher
 
 Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of cryptography. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of cryptographic techniques. Quinn Narlo's commitment to continual learning in cryptography is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
 <hr />
