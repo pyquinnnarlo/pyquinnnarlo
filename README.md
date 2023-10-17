@@ -53,31 +53,37 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of cryptography. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of cryptographic techniques.
-
-Quinn Narlo's commitment to continual learning in cryptography is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
+Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of cryptography. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of cryptographic techniques. Quinn Narlo's commitment to continual learning in cryptography is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
 <hr />
 
 </div>
 
 
-
+<div align="left">
   
+**Database**
 
-
-  
-
-
-
-#### Database
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
+Quinn's prowess in database technology is a testament to their ability to work with both relational and NoSQL databases, adapting to the specific needs of various projects. Whether it's crafting the perfect SQL query, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of the tools that underpin modern data management. Quinn Narlo is a database maestro, proficient in managing a diverse array of database systems. With expertise spanning Firebase, MongoDB, SQL, and PostgreSQL, they wield the power of data storage and retrieval with remarkable finesse.
+<hr />
+
+</div>
 
 
-#### Extra Skills
+<div align="left">
+  
+**Extra Tech Skills**
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
+Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new skills and staying at the forefront of technological innovation. Their journey is marked by a continuous quest for learning and mastering various tech skills, making them a versatile and resourceful individual in the world of technology. Quinn remains adaptable and ready to tackle a wide array of challenges and opportunities in the ever-evolving tech landscape. Their passion for tech and their proactive approach to skill acquisition make Quinn Narlo a valuable asset to any project or team seeking to harness the latest technological advancements.
+<hr />
+
+</div>
+
 
