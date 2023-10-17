@@ -1,5 +1,3 @@
-## Hey there:
-Computer Science | Backend Engineer | Desktop App Developer | UI/UX Design |Cryptographer
 <div align="left">
   
 **Computer Science**
