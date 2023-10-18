@@ -83,6 +83,7 @@ Quinn's prowess in database technology is a testament to their ability to work w
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![React](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
 
 Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new skills and staying at the forefront of technological innovation. Their journey is marked by a continuous quest for learning and mastering various tech skills, making them a versatile and resourceful individual in the world of technology. Quinn remains adaptable and ready to tackle a wide array of challenges and opportunities in the ever-evolving tech landscape. Their passion for tech and their proactive approach to skill acquisition make Quinn Narlo a valuable asset to any project or team seeking to harness the latest technological advancements.
 <hr />
