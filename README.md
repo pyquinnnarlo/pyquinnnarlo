@@ -89,4 +89,15 @@ Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new ski
 
 </div>
 
+<div align="left">
+  
+**Algorithm Area**
+
+This is just me studying and solving different DSA problems.
+
+
+<hr />
+
+</div>
+
 
