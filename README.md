@@ -26,6 +26,8 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
   
 **Desktop App Developer**
 
+<code><img width="20" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+
 With a strong foundation in technologies like C#, and expertise in UI/UX design principles, Quinn ensures that every application is not only functional but also visually appealing. Their dedication to writing clean and maintainable code results in reliable and high-performance desktop applications that meet the unique requirements of clients and end-users. Quinn Narlo is the go-to developer for anyone looking to bring their desktop application vision to life.
 <hr />
 
