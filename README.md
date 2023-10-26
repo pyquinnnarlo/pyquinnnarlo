@@ -53,7 +53,8 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
 **DSA**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+
 
 - Euclidean Algorithm
 - Caesar Cipher
