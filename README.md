@@ -52,11 +52,10 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
 
 <div align="left">
   
-**DSA**
+**DSA & OOP**
 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 
 
 - Euclidean Algorithm
