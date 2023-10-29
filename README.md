@@ -43,6 +43,7 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and experiences that captivate and delight. With an artistic flair and a deep understanding of human interaction, Quinn possesses the creative talent and technical expertise to transform concepts into intuitive and visually stunning designs. Whether it's for web applications, mobile apps, or desktop software, Quinn Narlo's UI/UX design work elevates the overall user experience, making them an invaluable asset to any project aiming to leave a lasting impression on its users.
 <hr />
@@ -88,11 +89,11 @@ Quinn's prowess in database technology is a testament to their ability to work w
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 
@@ -101,14 +102,7 @@ Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new ski
 
 </div>
 
-<div align="left">
-  
-**Algorithm Area**
 
-This is just me studying and solving different DSA problems.
-
-
-<hr />
 
 </div>
 
