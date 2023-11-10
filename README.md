@@ -14,8 +14,6 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 **Backend Engineer**
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 
 Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Node.js, Express.js, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
