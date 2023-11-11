@@ -57,9 +57,6 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 
 
-- Euclidean Algorithm
-- Caesar Cipher
-
 Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of algorithms. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of algorithmic techniques. Quinn Narlo's commitment to continual learning in algorithms is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
 <hr />
 
