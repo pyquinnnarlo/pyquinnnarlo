@@ -5,7 +5,10 @@
 ![download](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/4900c097-4556-4aea-9e7b-a3ebc3718c40)
 </div>
 
+<div align="center">
+  
 **Computer Science**
+</div>
 Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer Science. With a passion for technology and a keen interest in the digital world, Quinn is on a journey to become a proficient computer scientist. As a Computer Science major, Quinn Narlo not only excels in the theoretical aspects but also applies their knowledge through practical projects and real-world applications. Their determination to stay up-to-date with industry trends and emerging technologies demonstrates their dedication to becoming a well-rounded and innovative computer scientist. With a bright future ahead, Quinn is poised to make significant contributions to the world of technology and computing, and their journey through the Computer Science major is a testament to their commitment to excellence and the ever-evolving field of computer science.
 <hr />
 
