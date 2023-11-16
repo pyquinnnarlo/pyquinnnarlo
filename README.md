@@ -23,7 +23,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 </div>
 
-<div align="center">
+<div align="left">
 
 **Backend Engineer**
 </div>
