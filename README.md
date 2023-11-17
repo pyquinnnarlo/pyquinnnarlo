@@ -1,11 +1,11 @@
 <div align="left">
   
-<div align="center">
+<div align="left">
   
 ![download](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/4900c097-4556-4aea-9e7b-a3ebc3718c40)
 </div>
 
-<div align="center">
+<div align="left">
   
 **Computer Science**
 </div>
@@ -18,7 +18,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <div align="left">
 
-<div align="center">
+<div align="left">
   
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 </div>
@@ -35,7 +35,7 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 
 <div align="left">
 
-<div align="center">
+<div align="left">
   
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 ![XAML Badge](https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=fff&style=for-the-badge)
@@ -90,6 +90,18 @@ Quinn's prowess in database technology is a testament to their ability to work w
 <hr />
 
 </div>
+
+
+<div align="left">
+  
+**Soft Skills**
+
+Quinn's prowess in database technology is a testament to their ability to work with both relational and NoSQL databases, adapting to the specific needs of various projects. Whether it's crafting the perfect SQL query, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of the tools that underpin modern data management. Quinn Narlo is a database maestro, proficient in managing a diverse array of database systems. With expertise spanning Firebase, MongoDB, SQL, and PostgreSQL, they wield the power of data storage and retrieval with remarkable finesse.
+<hr />
+
+</div>
+
+
 
 
 <div align="left">
