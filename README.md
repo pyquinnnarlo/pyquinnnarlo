@@ -96,6 +96,9 @@ Quinn's prowess in database technology is a testament to their ability to work w
   
 **Soft Skills**
 
+- SOLID Design Patterns
+- BPMN
+
 Quinn's prowess in database technology is a testament to their ability to work with both relational and NoSQL databases, adapting to the specific needs of various projects. Whether it's crafting the perfect SQL query, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of the tools that underpin modern data management. Quinn Narlo is a database maestro, proficient in managing a diverse array of database systems. With expertise spanning Firebase, MongoDB, SQL, and PostgreSQL, they wield the power of data storage and retrieval with remarkable finesse.
 <hr />
 
