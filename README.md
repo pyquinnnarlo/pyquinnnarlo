@@ -94,21 +94,6 @@ Quinn's prowess in database technology is a testament to their ability to work w
 
 <div align="left">
   
-**Designs and Principals/Patterns**
-
-- SOLID Design Patterns
-- BPMN
-
-
-<hr />
-
-</div>
-
-
-
-
-<div align="left">
-  
 **Extra Tech Skills**
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
