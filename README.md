@@ -1,5 +1,6 @@
 <div align="center">
   
+## Proficient in...
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cs" />
@@ -7,7 +8,7 @@
 </p>
 
 
-## I'm currently learning.
+## I'm currently learning...
 
 <p align="center">
   <a href="https://skillicons.dev">
