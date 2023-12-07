@@ -117,6 +117,20 @@ Quinn's prowess in database technology is a testament to their ability to work w
 
 
 <div align="left">
+
+<div align="left">
+  
+**Project Management**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,github,docker" />
+  </a>
+</p>
+
+</div>
+
+
+
   
 **Extra Tech Skills**
 
