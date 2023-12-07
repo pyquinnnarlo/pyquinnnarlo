@@ -7,7 +7,7 @@
 </p>
 
 
-I'm currently learning.
+## I'm currently learning.
 
 <p align="center">
   <a href="https://skillicons.dev">
