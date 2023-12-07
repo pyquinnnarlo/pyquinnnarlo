@@ -34,10 +34,11 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <div align="left">
 
-<div align="left">
-  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+</p>
 
 <div align="left">
 
@@ -51,11 +52,11 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 
 <div align="left">
 
-<div align="left">
-  
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
-![XAML Badge](https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=fff&style=for-the-badge)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,xml" />
+  </a>
+</p>
 
 **Desktop App Developer**
 
