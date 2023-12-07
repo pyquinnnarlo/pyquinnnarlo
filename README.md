@@ -1,6 +1,7 @@
 <div align="center">
   
-![java](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/0b389b04-e698-46de-b8f0-fddd4f59f2f0)
+![java (1)](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/72d1300e-5501-447c-8733-2fee173e5640)
+
 
 </div>  
 <div align="left">
