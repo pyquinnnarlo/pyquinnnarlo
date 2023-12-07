@@ -1,6 +1,10 @@
 <div align="center">
   
-![java (1)](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/72d1300e-5501-447c-8733-2fee173e5640)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 </div>  
