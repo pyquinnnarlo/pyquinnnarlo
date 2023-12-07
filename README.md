@@ -34,7 +34,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <div align="left">
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
   </a>
@@ -52,7 +52,7 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 
 <div align="left">
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,xml" />
   </a>
@@ -71,9 +71,11 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
   
 **UI/UX Design**
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xd,figma" />
+  </a>
+</p>
 
 Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and experiences that captivate and delight. With an artistic flair and a deep understanding of human interaction, Quinn possesses the creative talent and technical expertise to transform concepts into intuitive and visually stunning designs. Whether it's for web applications, mobile apps, or desktop software, Quinn Narlo's UI/UX design work elevates the overall user experience, making them an invaluable asset to any project aiming to leave a lasting impression on its users.
 <hr />
@@ -85,8 +87,11 @@ Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and exper
   
 **DSA & OOP**
 
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs" />
+  </a>
+</p>
 
 
 Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of algorithms. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of algorithmic techniques. Quinn Narlo's commitment to continual learning in algorithms is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
@@ -99,7 +104,7 @@ Quinn Narlo is an eager and dedicated learner on the path to mastering the intri
   
 **Database**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite" />
   </a>
@@ -119,7 +124,7 @@ Quinn's prowess in database technology is a testament to their ability to work w
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,css,html,js,tailwind,bootstrap,sass" />
   </a>
