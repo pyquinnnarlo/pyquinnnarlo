@@ -44,6 +44,8 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <div align="left">
 
 **Backend Engineer**
+Welcome to Django 5.0!
+458487
 </div>
 
 Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Node.js, Express.js, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
