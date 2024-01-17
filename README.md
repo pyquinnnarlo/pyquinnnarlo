@@ -125,6 +125,8 @@ Quinn's prowess in database technology is a testament to their ability to work w
   </a>
 </p>
 
+Meet Quinn Narlo, a seasoned project management professional with a profound command of industry-leading tools such as GitHub, GitLab, and Docker. Quinn excels in orchestrating collaborative workflows, leveraging version control systems, and streamlining deployment processes. With a meticulous eye for detail, Quinn ensures projects are efficiently managed from inception to delivery.
+
 </div>
 
 
@@ -134,7 +136,7 @@ Quinn's prowess in database technology is a testament to their ability to work w
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
   </a>
 </p>
 
