@@ -87,7 +87,7 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python" />
   </a>
 </p>
 
