@@ -130,13 +130,23 @@ Quinn's prowess in database technology is a testament to their ability to work w
 
 
   
-**Extra Tech Skills**
+<div align="left">
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
+  </a>
+</p>
 
-Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new skills and staying at the forefront of technological innovation. Their journey is marked by a continuous quest for learning and mastering various tech skills, making them a versatile and resourceful individual in the world of technology. Quinn remains adaptable and ready to tackle a wide array of challenges and opportunities in the ever-evolving tech landscape. Their passion for tech and their proactive approach to skill acquisition make Quinn Narlo a valuable asset to any project or team seeking to harness the latest technological advancements.
+<div align="left">
+
+**ROS**
+<br />
+
+</div>
+STILL LEARNING
+<hr />
+</div>
 <hr />
 
 </div>
