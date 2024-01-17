@@ -1,18 +1,12 @@
 <div align="center">
   
-## Proficient in...
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs" />
-  </a>
-</p>
 
 
 ## I'm currently learning...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=perl,rust,go" />
+    <img src="https://skillicons.dev/icons?i=perl,rust" />
   </a>
 </p>
 
@@ -37,9 +31,20 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,go" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react" />
   </a>
 </p>
+
+<div align="left">
+
+**Frontend Engineer**
+<br />
+
+</div>
+
+Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Node.js, Express.js, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
+<hr />
+</div>
 
 <div align="left">
 
