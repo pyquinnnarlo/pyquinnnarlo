@@ -47,6 +47,11 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 </div>
 
 <div align="left">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,go" />
+  </a>
+</p>
 
 **Backend Engineer**
 <br />
