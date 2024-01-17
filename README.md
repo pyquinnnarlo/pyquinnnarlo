@@ -42,7 +42,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 </div>
 
-Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Node.js, Express.js, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
+Quinn Narlo, a skilled frontend developer, possesses a remarkable proficiency in designing captivating and user-friendly interfaces. Specializing in HTML, CSS, and JavaScript, React, etc. Quinn excels in crafting visually appealing and responsive web applications. By combining creativity with a deep understanding of user experience, Quinn ensures that every frontend element seamlessly integrates with the robust backend systems. With a commitment to delivering sleek and intuitive designs, Quinn Narlo is an indispensable asset to any development team aiming to create engaging and powerful web interfaces.
 <hr />
 </div>
 
@@ -59,7 +59,7 @@ Welcome to Django 5.0!
 
 </div>
 
-Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Node.js, Express.js, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
+Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Go, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
 <hr />
 </div>
 
@@ -77,22 +77,6 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 With a strong foundation in technologies like C#, and expertise in UI/UX design principles, Quinn ensures that every application is not only functional but also visually appealing. Their dedication to writing clean and maintainable code results in reliable and high-performance desktop applications that meet the unique requirements of clients and end-users. Quinn Narlo is the go-to developer for anyone looking to bring their desktop application vision to life.
 <hr />
 
-
-</div>
-
-
-<div align="left">
-  
-**UI/UX Design**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,figma" />
-  </a>
-</p>
-
-Quinn Narlo is a UI/UX designer, dedicated to crafting user interfaces and experiences that captivate and delight. With an artistic flair and a deep understanding of human interaction, Quinn possesses the creative talent and technical expertise to transform concepts into intuitive and visually stunning designs. Whether it's for web applications, mobile apps, or desktop software, Quinn Narlo's UI/UX design work elevates the overall user experience, making them an invaluable asset to any project aiming to leave a lasting impression on its users.
-<hr />
 
 </div>
 
@@ -151,12 +135,6 @@ Quinn's prowess in database technology is a testament to their ability to work w
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,html,js,tailwind,bootstrap,sass" />
-  </a>
-</p>
 
 Quinn Narlo is a tech enthusiast with a voracious appetite for acquiring new skills and staying at the forefront of technological innovation. Their journey is marked by a continuous quest for learning and mastering various tech skills, making them a versatile and resourceful individual in the world of technology. Quinn remains adaptable and ready to tackle a wide array of challenges and opportunities in the ever-evolving tech landscape. Their passion for tech and their proactive approach to skill acquisition make Quinn Narlo a valuable asset to any project or team seeking to harness the latest technological advancements.
 <hr />
