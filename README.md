@@ -49,7 +49,7 @@ Quinn Narlo, a skilled frontend developer, possesses a remarkable proficiency in
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,go" />
+    <img src="https://skillicons.dev/icons?i=django,go,java" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,xml" />
+    <img src="https://skillicons.dev/icons?i=cs,xaml" />
   </a>
 </p>
 
