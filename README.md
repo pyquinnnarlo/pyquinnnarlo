@@ -49,7 +49,7 @@ Quinn Narlo, a skilled frontend developer, possesses a remarkable proficiency in
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,go,java" />
+    <img src="https://skillicons.dev/icons?i=django,java" />
   </a>
 </p>
 
