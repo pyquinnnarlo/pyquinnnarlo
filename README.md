@@ -31,7 +31,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,reactnative" />
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Quinn Narlo, a skilled frontend developer, possesses a remarkable proficiency in
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,java,spring,fastapi" />
+    <img src="https://skillicons.dev/icons?i=django,spring,fastapi" />
   </a>
 </p>
 
