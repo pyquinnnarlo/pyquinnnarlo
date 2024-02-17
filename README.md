@@ -112,6 +112,8 @@ Quinn Narlo is an eager and dedicated learner on the path to mastering the intri
 <br />
 
 STILL LEARNING
+
+<hr />
 </div>
 
 
