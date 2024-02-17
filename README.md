@@ -98,6 +98,25 @@ Quinn Narlo is an eager and dedicated learner on the path to mastering the intri
 </div>
 
 
+
+<div align="left">
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  </a>
+</p>
+
+
+**ROS**
+<br />
+
+STILL LEARNING
+</div>
+
+
+
+
 <div align="left">
   
 **Database**
@@ -128,24 +147,4 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 </div>
 <hr />
-
-
-
-  
-<div align="left">
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-  </a>
-</p>
-
-
-**ROS**
-<br />
-
-STILL LEARNING
-</div>
-
-
 
