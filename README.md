@@ -31,7 +31,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react," />R3F, React Native
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,flet" />R3F, React Native
   </a>
 </p>
 
