@@ -12,8 +12,12 @@
 
 </div>  
 <div align="left">
+
+
   
 ![download](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/4900c097-4556-4aea-9e7b-a3ebc3718c40)
+
+
 </div>
 
 <div align="left">
