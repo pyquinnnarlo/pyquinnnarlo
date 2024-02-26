@@ -58,6 +58,7 @@ Quinn Narlo is a highly skilled Frontend Engineer with expertise in creating cap
     <img src="https://skillicons.dev/icons?i=django,fastapi,go" />
   </a>
 </p>
+[Pocket_2.pdf](https://github.com/pyquinnnarlo/pyquinnnarlo/files/14411126/Pocket_2.pdf)
 
 **Backend Engineer**
 <br />
