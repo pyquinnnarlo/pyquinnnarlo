@@ -48,7 +48,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 </div>
 
-Quinn Narlo, a skilled frontend developer, possesses a remarkable proficiency in designing captivating and user-friendly interfaces. Specializing in HTML, CSS, and JavaScript, React, etc. Quinn excels in crafting visually appealing and responsive web applications. By combining creativity with a deep understanding of user experience, Quinn ensures that every frontend element seamlessly integrates with the robust backend systems. With a commitment to delivering sleek and intuitive designs, Quinn Narlo is an indispensable asset to any development team aiming to create engaging and powerful web interfaces.
+Quinn Narlo is a highly skilled Frontend Engineer with expertise in creating captivating and user-friendly interfaces. Proficient in HTML, CSS, JavaScript, React.js, Bootstrap, React Native, and Sass, Quinn excels in crafting visually appealing and responsive web applications. Leveraging a combination of technical proficiency and creativity, Quinn ensures seamless integration of frontend elements with robust backend systems. Committed to delivering sleek and intuitive designs, Quinn Narlo is an indispensable asset to any development team aiming to create engaging and powerful web interfaces for both desktop and mobile platforms.
 <hr />
 </div>
 
