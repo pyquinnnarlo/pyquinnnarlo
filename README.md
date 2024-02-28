@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/e1bdb192-ec77-4d87-b71a-46a3ac3f779e" width="150" />
+<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/e1bdb192-ec77-4d87-b71a-46a3ac3f779e" width="200" />
 </p>
 
 </div>  
