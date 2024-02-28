@@ -31,25 +31,20 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 </div>
 
 
-<div align="left">
 
+
+## **Frontend Engineer**
+<br />
+<div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,react" />
     <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/05903e8c-47c0-45d6-a4b2-10aa54ceb646" width="100"/>
   </a>
 </p>
-
-
-
 <div align="left">
 
-## **Frontend Engineer**
-<br />
-
-</div>
-
-  <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/e1bdb192-ec77-4d87-b71a-46a3ac3f779e" width="300" />
+<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/e1bdb192-ec77-4d87-b71a-46a3ac3f779e" width="300" />
 
 
 Quinn Narlo is a highly skilled Frontend Engineer with expertise in creating captivating and user-friendly interfaces. Proficient in HTML, CSS, JavaScript, React.js, Bootstrap, React Native, and Sass, Quinn excels in crafting visually appealing and responsive web applications. Leveraging a combination of technical proficiency and creativity, Quinn ensures seamless integration of frontend elements with robust backend systems. Committed to delivering sleek and intuitive designs, Quinn Narlo is an indispensable asset to any development team aiming to create engaging and powerful web interfaces for both desktop and mobile platforms.
