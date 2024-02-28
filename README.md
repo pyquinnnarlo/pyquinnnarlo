@@ -44,7 +44,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 <div align="left">
 
-**Frontend Engineer**
+#*Frontend Engineer*
 <br />
 
 </div>
