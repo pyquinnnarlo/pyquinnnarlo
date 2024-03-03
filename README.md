@@ -171,14 +171,14 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 Feel free to reach out to me through the following channels:
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [Quinn Narlo](mailto:pyquinnnarlo@gmail.com)
 
-**WhatsApp:** [+1234567890](tel:+1234567890)
+**WhatsApp:** [Quinn Narlo](tel:+231881145340)
 
-**Facebook:** [YourName](https://www.facebook.com/YourName)
+**Facebook:** [Quinn Narlo](https://www.facebook.com/pyquinnnarlo)
 
-**LinkedIn:** [YourName](https://www.linkedin.com/in/YourName)
+**LinkedIn:** [Quinn Narlo](https://www.linkedin.com/in/quinn-narlo-b0ab4724a/)
 
-**Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+**Twitter:** [@quinn_narlo](https://twitter.com/quinn_narlo)
 
 I'm always open to connecting and discussing exciting opportunities or collaborations!
