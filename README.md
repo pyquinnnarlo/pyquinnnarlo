@@ -10,12 +10,12 @@
 
 ### SEE MY PROJECTS
 
-| Project Name        | Source Code Link                            | Project Description                                    |
-|---------------------|--------------------------------------------|--------------------------------------------------------|
-| Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion that use NASA data   |
-| Code Master         | [GitHub](https://github.com/code-master)    | A coding platform for mastering programming languages. |
-| Data Explorer       | [GitHub](https://github.com/data-explorer)  | Explore and analyze data with powerful visualization.   |
-| Tech Blog           | [GitHub](https://github.com/tech-blog)      | A platform for sharing and discussing tech-related blogs.|
+| Project Name        | Source Code Link                            | Project Description                                    | Finish Product                     |
+|---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
+| Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion that use NASA data                             |
+| Code Master         | [GitHub](https://github.com/code-master)    | A coding platform for mastering programming languages. | In Development
+| Data Explorer       | [GitHub](https://github.com/data-explorer)  | Explore and analyze data with powerful visualization.   | In Development
+| Tech Blog           | [GitHub](https://github.com/tech-blog)      | A platform for sharing and discussing tech-related blogs.| In Development
 
 
 </div>  
