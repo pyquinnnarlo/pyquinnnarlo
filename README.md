@@ -173,7 +173,7 @@ Feel free to reach out to me through the following channels:
 
 **Email:** [Quinn Narlo](mailto:pyquinnnarlo@gmail.com)
 
-**WhatsApp:** [Quinn Narlo](tel:+231881145340)
+**WhatsApp:** [+231881145340](tel:+231881145340)
 
 **Facebook:** [Quinn Narlo](https://www.facebook.com/pyquinnnarlo)
 
