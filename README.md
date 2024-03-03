@@ -10,7 +10,13 @@
 
 ### SEE MY PROJECTS
 
-<a href="https://github.com/pyquinnnarlo/everything-space"> Space App </a>
+| Project Name        | Source Code Link                            | Project Description                                    |
+|---------------------|--------------------------------------------|--------------------------------------------------------|
+| Eyes on Space     | [GitHub](https://github.com/awesomeproject) | A 3D Space Google Chrome Extenstion that use NASA data   |
+| Code Master         | [GitHub](https://github.com/code-master)    | A coding platform for mastering programming languages. |
+| Data Explorer       | [GitHub](https://github.com/data-explorer)  | Explore and analyze data with powerful visualization.   |
+| Tech Blog           | [GitHub](https://github.com/tech-blog)      | A platform for sharing and discussing tech-related blogs.|
+
 
 </div>  
 
