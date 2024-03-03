@@ -63,7 +63,7 @@ Quinn Narlo is a highly skilled Frontend Engineer with expertise in creating cap
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,fastapi,go" />
+    <img src="https://skillicons.dev/icons?i=django,express,fastapi,spring" />
   </a>
 </p>
   
