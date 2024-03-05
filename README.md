@@ -48,7 +48,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,react,remix,turso" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,react,remix" />
     <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/05903e8c-47c0-45d6-a4b2-10aa54ceb646" width="100"/>
   </a>
 </p>
