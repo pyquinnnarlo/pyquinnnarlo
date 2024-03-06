@@ -10,11 +10,11 @@
 
 #### SEE MY PROJECTS
 
-| Project Name        | Source Code Link                            | Project Description                                    | Finish Product                     |
+| Project Name        | Source Code Link                            | Project Description                                    | See Project                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
 | Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style libary | In Development
-
+| Lux               |                                             | A easy to us developer collaboration platform          
 
 
 
