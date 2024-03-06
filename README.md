@@ -14,7 +14,7 @@
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
 | Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style libary | In Development
-| Lux               |                                             | A easy to us developer collaboration platform          
+| Lux               | [GitHun)(https://github.com/pyquinnnarlo/Lux)        | A easy to us developer collaboration platform          
 
 
 
