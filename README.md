@@ -13,7 +13,7 @@
 | Project Name        | Source Code Link                            | Project Description                                    | Finish Product                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
-| Code Master         | [GitHub](https://github.com/code-master)    | A coding platform for mastering programming languages. | In Development
+| Modern Qt         | [GitHub](https://github.com/code-master)    | A modern PyQt5 style libary | In Development
 | Data Explorer       | [GitHub](https://github.com/data-explorer)  | Explore and analyze data with powerful visualization.   | In Development
 | Tech Blog           | [GitHub](https://github.com/tech-blog)      | A platform for sharing and discussing tech-related blogs.| In Development
 
