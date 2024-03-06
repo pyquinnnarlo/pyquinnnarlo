@@ -13,7 +13,8 @@
 | Project Name        | Source Code Link                            | Project Description                                    | Finish Product                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
-| Modern Qt         | [GitHub](https://github.com/code-master)    | A modern PyQt5 style libary | In Development
+| Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style libary | In Development
+
 
 
 
