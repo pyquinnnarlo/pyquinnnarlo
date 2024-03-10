@@ -14,7 +14,8 @@
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
 | Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style libary | In Development
-| Django Client Manager               | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)        | A easy to us developer collaboration platform    | [PyPI](https://pypi.org/project/django-client-manager/)      
+| Django Client Manager               | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)        | 
+Django Client Manager is a Python library designed to streamline the process of creating custom user accounts in Django applications.    | [PyPI](https://pypi.org/project/django-client-manager/)      
 
 
 
