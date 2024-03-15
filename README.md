@@ -41,7 +41,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 
 
-## **Frontend Engineer**
+
 <br />
 <div align="left">
 <p align="left">
@@ -50,6 +50,8 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
     <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/05903e8c-47c0-45d6-a4b2-10aa54ceb646" width="100"/>
   </a>
 </p>
+
+**Frontend Engineer**
 <div align="left">
 
 <br />
