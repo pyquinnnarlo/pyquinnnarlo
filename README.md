@@ -147,11 +147,11 @@ STILL LEARNING
 
 <div align="left">
   
-**Database**
+**Database & Tools**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,redis" />
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,redis,ngnix" />
   </a>
 </p>
 
