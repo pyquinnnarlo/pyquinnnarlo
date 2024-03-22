@@ -109,7 +109,7 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 
 <div align="left">
   
-**DSA & OOP**
+
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -117,32 +117,12 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
   </a>
 </p>
 
+**DSA & OOP**
 
 Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of algorithms. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of algorithmic techniques. Quinn Narlo's commitment to continual learning in algorithms is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
 <hr />
 
 </div>
-
-
-
-<div align="left">
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-  </a>
-</p>
-
-
-**ROS**
-<br />
-
-STILL LEARNING
-
-<hr />
-</div>
-
-
 
 
 <div align="left">
@@ -175,6 +155,30 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 </div>
 <hr />
+
+
+
+<div align="left">
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  </a>
+</p>
+
+
+**ROS**
+<br />
+
+STILL LEARNING
+
+<hr />
+</div>
+
+
+
+
+
 
 
 ## Contact Me
