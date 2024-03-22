@@ -12,8 +12,8 @@
 
 | Project Name        | Source Code Link                            | Project Description                                    | See Project                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
-| Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extenstion amd mobile app that use NASA data                             |
-| Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style libary | In Development
+| Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extension and mobile app that use NASA data                             |
+| Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style library | In Development
 | Django Client Manager  | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)  | A Python library designed to streamline the process of creating custom user accounts in Django.| [PyPI](https://pypi.org/project/django-client-manager/)      
 
 
@@ -31,16 +31,14 @@
 
 <div align="left">
   
-**Computer Science**
-</div>
+**About Me**
+
 Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer Science. With a passion for technology and a keen interest in the digital world, Quinn is on a journey to become a proficient computer scientist. As a Computer Science major, Quinn Narlo not only excels in the theoretical aspects but also applies their knowledge through practical projects and real-world applications. Their determination to stay up-to-date with industry trends and emerging technologies demonstrates their dedication to becoming a well-rounded and innovative computer scientist. With a bright future ahead, Quinn is poised to make significant contributions to the world of technology and computing, and their journey through the Computer Science major is a testament to their commitment to excellence and the ever-evolving field of computer science.
 </div>
 <br />
 <br />
 
-
-
-
+## Skills
 
 <br />
 <div align="left">
@@ -53,8 +51,6 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 **Frontend Engineer**
 <div align="left">
 
-<br />
-<br />
 Quinn Narlo is a highly skilled Frontend Engineer with expertise in creating captivating and user-friendly interfaces. Proficient in HTML, CSS, JavaScript, React.js, Bootstrap, React Native, and Sass, Quinn excels in crafting visually appealing and responsive web applications. Leveraging a combination of technical proficiency and creativity, Quinn ensures seamless integration of frontend elements with robust backend systems. Committed to delivering sleek and intuitive designs, Quinn Narlo is an indispensable asset to any development team aiming to create engaging and powerful web interfaces for both desktop and mobile platforms.
 <hr />
 </div>
@@ -102,7 +98,7 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 
 **Game Programmer**
 
-With a strong foundation in technologies like C#, and expertise in UI/UX design principles, Quinn ensures that every application is not only functional but also visually appealing. Their dedication to writing clean and maintainable code results in reliable and high-performance desktop applications that meet the unique requirements of clients and end-users. Quinn Narlo is the go-to developer for anyone looking to bring their desktop application vision to life.
+Quinn Narlo brings expertise in game development, leveraging technologies like C# and Unity to create immersive and engaging gaming experiences. With a focus on user experience and performance optimization, Quinn ensures that every game developed meets the highest standards. Their dedication to clean and maintainable code makes them an invaluable asset in the gaming industry, where innovation and creativity thrive.
 <hr />
 </div>
 
@@ -119,7 +115,7 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 
 **DSA & OOP**
 
-Quinn Narlo is an eager and dedicated learner on the path to mastering the intricate world of algorithms. With a thirst for knowledge and a passion for the art of securing information, Quinn is committed to understanding the inner workings of algorithmic techniques. Quinn Narlo's commitment to continual learning in algorithms is not only admirable but also reflective of their potential to become a future expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
+Quinn Narlo is committed to mastering the intricate world of algorithms and object-oriented programming. With a thirst for knowledge and a passion for securing information, Quinn is dedicated to understanding the inner workings of algorithmic techniques. Their commitment to continual learning in algorithms reflects their potential to become an expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
 <hr />
 
 </div>
@@ -135,7 +131,7 @@ Quinn Narlo is an eager and dedicated learner on the path to mastering the intri
   </a>
 </p>
 
-Quinn's prowess in database technology is a testament to their ability to work with both relational and NoSQL databases, adapting to the specific needs of various projects. Whether it's crafting the perfect SQL query, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of the tools that underpin modern data management. Quinn Narlo is a database maestro, proficient in managing a diverse array of database systems. With expertise spanning Firebase, MongoDB, SQL, and PostgreSQL, they wield the power of data storage and retrieval with remarkable finesse.
+Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
 <hr />
 
 </div>
