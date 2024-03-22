@@ -139,8 +139,8 @@ Quinn's prowess in database technology extends to both relational and NoSQL data
 
 <div align="left">
 
-  
 **Project Management**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix" />
@@ -151,7 +151,6 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 <hr />
 </div>
-
 
 <div align="left">
   
@@ -188,11 +187,6 @@ STILL LEARNING
 </div>
 
 
-
-
-
-
-
 ## Contact Me
 
 Feel free to reach out to me through the following channels:
@@ -206,5 +200,3 @@ Feel free to reach out to me through the following channels:
 **LinkedIn:** [Quinn Narlo](https://www.linkedin.com/in/quinn-narlo-b0ab4724a/)
 
 **Twitter:** [@quinn_narlo](https://twitter.com/quinn_narlo)
-
-I'm always open to connecting and discussing exciting opportunities or collaborations!
