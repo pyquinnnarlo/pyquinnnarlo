@@ -173,12 +173,12 @@ Quinn's prowess in database technology is a testament to their ability to work w
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,nim" />
   </a>
 </p>
 
 
-**ROS**
+
 <br />
 
 STILL LEARNING
