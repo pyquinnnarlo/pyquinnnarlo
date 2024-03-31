@@ -110,7 +110,7 @@ Quinn Narlo brings expertise in game development, leveraging technologies like C
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cs" />
+    <img src="https://skillicons.dev/icons?i=c,assembly" />
   </a>
 </p>
 
