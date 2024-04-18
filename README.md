@@ -137,22 +137,6 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 <hr />
 </div>
 
-<div align="left">
-  
-**Software Principles**
-
-<p align="left">
-  
-![1686396790241](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/c5e4d1e3-2c5f-414b-aa62-7f5aa15b6ef1)
-
-</p>
-
-...
-<hr />
-
-</div>
-
-
 
 <div align="left">
 
