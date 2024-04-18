@@ -39,7 +39,6 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <br />
 <br />
 
-## Skills
 
 
 <div align="left">
@@ -128,7 +127,7 @@ Quinn's prowess in database technology extends to both relational and NoSQL data
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix,aws" />
   </a>
 </p>
 
