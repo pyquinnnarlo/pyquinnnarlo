@@ -42,6 +42,13 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 ## Skills
 
 
+<div align="left">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,node,express,spring,php" />
+  </a>
+</p>
+
 **Backend Engineer**
 <br />
 Welcome to Django 5.0!
