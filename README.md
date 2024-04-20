@@ -60,6 +60,22 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 
 
 <div align="left">
+  
+**Database & Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,redis,ngnix" />
+  </a>
+</p>
+
+Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
+<hr />
+
+</div>
+
+
+<div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,qt" />
@@ -88,6 +104,22 @@ Quinn Narlo brings expertise in game development, leveraging technologies like C
 
 
 <div align="left">
+
+**Project Management**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix,aws" />
+  </a>
+</p>
+
+Meet Quinn Narlo, a seasoned project management professional with a profound command of industry-leading tools such as GitHub, GitLab, and Docker. Quinn excels in orchestrating collaborative workflows, leveraging version control systems, and streamlining deployment processes. With a meticulous eye for detail, Quinn ensures projects are efficiently managed from inception to delivery.
+
+<hr />
+</div>
+
+
+<div align="left">
   
 
 
@@ -104,37 +136,6 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 
 </div>
 
-
-<div align="left">
-  
-**Database & Tools**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,redis,ngnix" />
-  </a>
-</p>
-
-Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
-<hr />
-
-</div>
-
-
-<div align="left">
-
-**Project Management**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix,aws" />
-  </a>
-</p>
-
-Meet Quinn Narlo, a seasoned project management professional with a profound command of industry-leading tools such as GitHub, GitLab, and Docker. Quinn excels in orchestrating collaborative workflows, leveraging version control systems, and streamlining deployment processes. With a meticulous eye for detail, Quinn ensures projects are efficiently managed from inception to delivery.
-
-<hr />
-</div>
 
 
 <div align="left">
