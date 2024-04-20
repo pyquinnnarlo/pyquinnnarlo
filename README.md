@@ -70,7 +70,6 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 </p>
 
 Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
-<hr />
 
 </div>
 
@@ -99,7 +98,6 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 **Game Programmer**
 
 Quinn Narlo brings expertise in game development, leveraging technologies like C# and Unity to create immersive and engaging gaming experiences. With a focus on user experience and performance optimization, Quinn ensures that every game developed meets the highest standards. Their dedication to clean and maintainable code makes them an invaluable asset in the gaming industry, where innovation and creativity thrive.
-<hr />
 </div>
 
 
@@ -115,7 +113,6 @@ Quinn Narlo brings expertise in game development, leveraging technologies like C
 
 Meet Quinn Narlo, a seasoned project management professional with a profound command of industry-leading tools such as GitHub, GitLab, and Docker. Quinn excels in orchestrating collaborative workflows, leveraging version control systems, and streamlining deployment processes. With a meticulous eye for detail, Quinn ensures projects are efficiently managed from inception to delivery.
 
-<hr />
 </div>
 
 
@@ -132,7 +129,6 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 **DSA & OOP**
 
 Quinn Narlo is committed to mastering the intricate world of algorithms and object-oriented programming. With a thirst for knowledge and a passion for securing information, Quinn is dedicated to understanding the inner workings of algorithmic techniques. Their commitment to continual learning in algorithms reflects their potential to become an expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
-<hr />
 
 </div>
 
@@ -152,7 +148,6 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 
 STILL LEARNING
 
-<hr />
 </div>
 
 
