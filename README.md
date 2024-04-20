@@ -150,7 +150,7 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,x86" />
   </a>
 </p>
 
