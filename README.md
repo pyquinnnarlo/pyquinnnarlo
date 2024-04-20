@@ -55,8 +55,10 @@ Welcome to Django 5.0!
 </div>
 
 Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Go, and Django, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
-<hr />
 </div>
+
+<br />
+<br />
 
 
 <div align="left">
@@ -72,7 +74,8 @@ Quinn Narlo is a talented backend engineer whose expertise lies in crafting robu
 Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
 
 </div>
-
+<br />
+<br />
 
 <div align="left">
 <p align="left">
@@ -84,9 +87,11 @@ Quinn's prowess in database technology extends to both relational and NoSQL data
 **Desktop App Developer**
 
 With a strong foundation in technologies like C#, and expertise in UI/UX design principles, Quinn ensures that every application is not only functional but also visually appealing. Their dedication to writing clean and maintainable code results in reliable and high-performance desktop applications that meet the unique requirements of clients and end-users. Quinn Narlo is the go-to developer for anyone looking to bring their desktop application vision to life.
-<hr />
+
 </div>
 
+<br />
+<br />
 
 <div align="left">
 <p align="left">
@@ -100,6 +105,8 @@ With a strong foundation in technologies like C#, and expertise in UI/UX design 
 Quinn Narlo brings expertise in game development, leveraging technologies like C# and Unity to create immersive and engaging gaming experiences. With a focus on user experience and performance optimization, Quinn ensures that every game developed meets the highest standards. Their dedication to clean and maintainable code makes them an invaluable asset in the gaming industry, where innovation and creativity thrive.
 </div>
 
+<br />
+<br />
 
 <div align="left">
 
@@ -115,6 +122,9 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 </div>
 
+
+<br />
+<br />
 
 <div align="left">
   
@@ -133,6 +143,8 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 </div>
 
 
+<br />
+<br />
 
 <div align="left">
 
