@@ -77,21 +77,6 @@ Quinn's prowess in database technology extends to both relational and NoSQL data
 <br />
 <br />
 
-<div align="left">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,qt" />
-  </a>
-</p>
-
-**Desktop App Developer**
-
-With a strong foundation in technologies like C#, and expertise in UI/UX design principles, Quinn ensures that every application is not only functional but also visually appealing. Their dedication to writing clean and maintainable code results in reliable and high-performance desktop applications that meet the unique requirements of clients and end-users. Quinn Narlo is the go-to developer for anyone looking to bring their desktop application vision to life.
-
-</div>
-
-<br />
-<br />
 
 <div align="left">
 <p align="left">
@@ -150,7 +135,7 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,x86" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,asm" />
   </a>
 </p>
 
