@@ -12,7 +12,6 @@
 
 | Project Name        | Source Code Link                            | Project Description                                    | See Project                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
-| Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extension and mobile app that use NASA data                             |
 | Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern-qt5)    | A modern PyQt5 style library | [Docs](https://modern-qt.vercel.app/)
 | Django Client Manager  | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)  | A Python library designed to streamline the process of creating custom user accounts in Django.| [PyPI](https://pypi.org/project/django-client-manager/)      
 
