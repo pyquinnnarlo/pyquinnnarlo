@@ -14,6 +14,7 @@
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern-qt5)    | A modern PyQt5 style library | [Docs](https://modern-qt.vercel.app/)
 | Django Client Manager  | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)  | A Python library designed to streamline the process of creating custom user accounts in Django.| [PyPI](https://pypi.org/project/django-client-manager/)      
+| PA                  | [Github](https://github.com/pyquinnnarlo/PAW) |
 
 
 
