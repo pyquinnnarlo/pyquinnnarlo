@@ -5,7 +5,6 @@
 <p align="center">
 
 <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/62dd0103-b782-425a-81bb-f6fe4b6086f8" width="150" />
-<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/e1bdb192-ec77-4d87-b71a-46a3ac3f779e" width="150" />
 <img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/31098295-4c9f-4eb0-aeb4-c453e26c3a4f" width="200" />
 </p>
 
@@ -14,7 +13,7 @@
 | Project Name        | Source Code Link                            | Project Description                                    | See Project                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
 | Eyes on Space     | Not Open Source | A 3D Space Google Chrome Extension and mobile app that use NASA data                             |
-| Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern_qt)    | A modern PyQt5 style library | In Development
+| Modern Qt         | [GitHub](https://github.com/pyquinnnarlo/modern-qt5)    | A modern PyQt5 style library | In Development
 | Django Client Manager  | [GitHub](https://github.com/pyquinnnarlo/django-client-manager/tree/main)  | A Python library designed to streamline the process of creating custom user accounts in Django.| [PyPI](https://pypi.org/project/django-client-manager/)      
 
 
