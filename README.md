@@ -41,6 +41,24 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <br />
 
 
+<div align="left">
+  
+**Academy**
+
+<p align="left">
+  <h1>Algebra</h1>
+  <h1>Linear Algebra</h1>
+  <h1>Physics</h1>
+  <h1>Chemistry</h1>
+</p>
+
+Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
+
+</div>
+<br />
+<br />
+
+
 
 <div align="left">
 <p align="left">
