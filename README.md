@@ -169,14 +169,10 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 | Django               | [Django](https://docs.djangoproject.com/en/5.0/)                            | [Django forum](https://forum.djangoproject.com/categories) |
 
 
-STILL LEARNING
 
 </div>
 
 
-## Contact Me
-
-Feel free to reach out to me through the following channels:
 
 **Email:** [Quinn Narlo](mailto:pyquinnnarlo@gmail.com)
 
