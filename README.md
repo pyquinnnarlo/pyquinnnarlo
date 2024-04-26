@@ -162,6 +162,13 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 
 <br />
 
+#### Resources
+
+| Tools        | Docs                          | Extra Resource                                    |
+|---------------------|--------------------------------------------|--------------------------------------------------------|
+| Django               | [Django](https://docs.djangoproject.com/en/5.0/)                            | [Django forum](https://forum.djangoproject.com/categories) |
+
+
 STILL LEARNING
 
 </div>
