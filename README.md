@@ -167,6 +167,7 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 | Tools        | Docs                          | Extra Resource                                    |
 |---------------------|--------------------------------------------|--------------------------------------------------------|
 | Django               | [Django](https://docs.djangoproject.com/en/5.0/)                            | [Django forum](https://forum.djangoproject.com/categories) |
+| Bjarne Stroustrup | [Web](https://www.stroustrup.com/)  |
 
 
 
