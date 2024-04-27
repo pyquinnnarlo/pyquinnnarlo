@@ -168,7 +168,7 @@ Quinn Narlo is committed to mastering the intricate world of algorithms and obje
 |---------------------|--------------------------------------------|--------------------------------------------------------|
 | Django               | [Django](https://docs.djangoproject.com/en/5.0/)                            | [Django forum](https://forum.djangoproject.com/categories) |
 | Bjarne Stroustrup | [Web](https://www.stroustrup.com/)  |                         |
-| Unity             |                                                | [Jasper(https://catlikecoding.com/unity/tutorials/)
+| Unity             |                                                | [Jasper](https://catlikecoding.com/unity/tutorials/) [Rastertek](https://www.rastertek.com/tutindex.html)
 | NVIDIA            | [Web](https://learn.nvidia.com/en-us/training/find-training?audit_allowed=true)    |
 
 
