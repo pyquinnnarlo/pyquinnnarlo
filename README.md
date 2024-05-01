@@ -118,7 +118,7 @@ Quinn Narlo brings expertise in game development, leveraging technologies like C
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,ngnix,aws" />
+    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,aws" />
   </a>
 </p>
 
@@ -136,27 +136,10 @@ Meet Quinn Narlo, a seasoned project management professional with a profound com
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,assembly" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,nim" />
   </a>
 </p>
 
-**DSA & OOP**
-
-Quinn Narlo is committed to mastering the intricate world of algorithms and object-oriented programming. With a thirst for knowledge and a passion for securing information, Quinn is dedicated to understanding the inner workings of algorithmic techniques. Their commitment to continual learning in algorithms reflects their potential to become an expert in this critical domain of computer science. With a mindset of perpetual growth and exploration, Quinn is well on their way to unlocking the secrets of this fascinating field and contributing to the ever-evolving landscape of information security.
-
-</div>
-
-
-<br />
-<br />
-
-<div align="left">
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,asm" />
-  </a>
-</p>
 
 
 
