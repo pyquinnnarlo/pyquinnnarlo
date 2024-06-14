@@ -40,20 +40,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <br />
 
 
-<div align="left">
-  
-**Academy**
 
-<p align="left">
-  <span>Algebra</span>
-  <span>Linear Algebra</span>
-  <span>Physics</span>
-  <span>Chemistry</span>
-</p>
-
-...
-
-</div>
 <br />
 <br />
 
