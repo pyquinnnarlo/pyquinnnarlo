@@ -49,7 +49,7 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,php,go" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,laravel" />
   </a>
 </p>
 
