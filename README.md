@@ -1,14 +1,8 @@
 <div align="center">
   
-###  BUY MY BOOKS:
 
-<p align="center">
 
-<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/62dd0103-b782-425a-81bb-f6fe4b6086f8" width="150" />
-<img src="https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/31098295-4c9f-4eb0-aeb4-c453e26c3a4f" width="200" />
-</p>
-
-#### SEE MY PROJECTS
+#### SEE MY PROJECTS [UPDATING SOON]
 
 | Project Name        | Source Code Link                            | Project Description                                    | See Project                     |
 |---------------------|--------------------------------------------|--------------------------------------------------------|--------------------------------------
