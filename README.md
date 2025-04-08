@@ -17,12 +17,7 @@
 
 <hr />
 
-<div align="left">
-  
-![download](https://github.com/pyquinnnarlo/pyquinnnarlo/assets/105549100/4900c097-4556-4aea-9e7b-a3ebc3718c40)
 
-
-</div>
 
 <div align="left">
   
@@ -35,109 +30,10 @@ Quinn Narlo is a dedicated and ambitious individual pursuing a major in Computer
 
 
 
-<br />
-<br />
-
-
-
-<div align="left">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,laravel" />
-  </a>
-</p>
-
-**Backend Engineer**
-<br />
-Welcome to Django 5.0!
-
-</div>
-
-Quinn Narlo is a talented backend engineer whose expertise lies in crafting robust and efficient systems using a variety of technologies. With a focus on Express, Laravel, Django, etc, Quinn is well-versed in building the backbone of web applications. These frameworks, known for their flexibility and scalability, allow Quinn to create secure, high-performance server-side solutions that power the functionality of web applications. With a keen eye for optimization and a dedication to delivering seamless user experiences, Quinn Narlo is a valuable asset to any development team seeking to build powerful and responsive web applications.
-</div>
-
-<br />
-<br />
-
-
-<div align="left">
-  
-**Database & Tools**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb,sqlite,redis,nginx" />
-  </a>
-</p>
-
-Quinn's prowess in database technology extends to both relational and NoSQL databases, adapting to the specific needs of various projects. Whether crafting SQL queries, designing schema structures, or harnessing the scalability of NoSQL databases, Quinn has a comprehensive understanding of modern data management tools. Proficient in Firebase, MongoDB, SQL, and PostgreSQL, Quinn Narlo manages diverse database systems with finesse.
-
-</div>
-<br />
-<br />
-
-
-<div align="left">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity" />
-  </a>
-</p>
-
-**Game Programmer**
-
-Quinn Narlo brings expertise in game development, leveraging technologies like C# and Unity to create immersive and engaging gaming experiences. With a focus on user experience and performance optimization, Quinn ensures that every game developed meets the highest standards. Their dedication to clean and maintainable code makes them an invaluable asset in the gaming industry, where innovation and creativity thrive.
-</div>
-
-<br />
-<br />
-
-<div align="left">
-
-**Project Management**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,github,docker,aws" />
-  </a>
-</p>
-
-Meet Quinn Narlo, a seasoned project management professional with a profound command of industry-leading tools such as GitHub, GitLab, and Docker. Quinn excels in orchestrating collaborative workflows, leveraging version control systems, and streamlining deployment processes. With a meticulous eye for detail, Quinn ensures projects are efficiently managed from inception to delivery.
-
-</div>
-
-
-<br />
-<br />
-
-<div align="left">
-  
-
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nim" />
-  </a>
-</p>
 
 
 
 
-<br />
-
-#### Resources
-
-| Tools        | Docs                          | Extra Resource                                    |
-|---------------------|--------------------------------------------|--------------------------------------------------------|
-| Django               | [Django](https://docs.djangoproject.com/en/5.0/)                            | [Django forum](https://forum.djangoproject.com/categories) |
-| Bjarne Stroustrup | [Web](https://www.stroustrup.com/)  |                         |
-| Unity             |                                                | [Jasper](https://catlikecoding.com/unity/tutorials/) [Rastertek](https://www.rastertek.com/tutindex.html)
-| NVIDIA            | [Web](https://learn.nvidia.com/en-us/training/find-training?audit_allowed=true)    |
-
-
-
-
-</div>
 
 
 
